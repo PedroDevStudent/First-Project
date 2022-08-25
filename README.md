@@ -1,1 +1,2 @@
 # First-Project
+Hello that's my first project in front end development. It's a site using JavaScript, HTML5 and CSS3. The website, colect the hour on your computer or smartphone, and use that to say Good Day, and show you the hours. The important times is : >= 0 hours && <= 12 hours ; <=18 hours ; and > 18 hours. To change the pictures and the message, you just need to change .js document, and delete the line "var hora = data.getHours()", and change for "var hora = x " x is the hour you want to see the information.
